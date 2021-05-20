@@ -19,6 +19,7 @@ my_parser.add_argument('--conv_mode',
 
 
 args = my_parser.parse_args()
+print(f"EXPERIMENTS/pb/{args.pb_model}")
 
 import tensorflow as tf
 import numpy as np
