@@ -1,0 +1,5 @@
+efficientnetv2/*.pyc
+efficientnetv2/__pycache__/*.pyc
+efficientnetv2/EXPERIMENTS/*
+efficientnetv2/*.png
+efficientnetv2/g3doc/*
